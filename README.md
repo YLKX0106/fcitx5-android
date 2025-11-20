@@ -1,5 +1,5 @@
 # fcitx5-android
-
+修改键盘符号
 [Fcitx5](https://github.com/fcitx/fcitx5) input method framework and engines ported to Android.
 
 ## Download
