@@ -48,7 +48,7 @@ class TextKeyboard(
                 AlphabetKey("S", "*"),
                 AlphabetKey("D", "+"),
                 AlphabetKey("F", "-"),
-                AlphabetKey("G", "="),
+                AlphabetKey("G", "`"),
                 AlphabetKey("H", "/"),
                 AlphabetKey("J", "#"),
                 AlphabetKey("K", "("),
